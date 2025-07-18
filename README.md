@@ -48,6 +48,7 @@ Important :- Do the COnfig CHanges in The APplication.properties file as per the
 -------
 🏗️ Project Structure
 
+```bash
 SmartEd/
 │
 ├── src/
@@ -60,6 +61,8 @@ SmartEd/
 ├── pom.xml                           # Maven build config
 ├── README.md                         # You're reading it!
 └── LICENSE                           # Optional: MIT / Apache / GPL
+
+```
 
 ---
 Screenshots :- 
