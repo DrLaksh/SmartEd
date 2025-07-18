@@ -43,7 +43,7 @@ cd SmartEd
 ./mvnw spring-boot:run
 
 ```
-Important :- Do the COnfig CHanges in The APplication.properties file as per the changes
+Important :- Do the Config Changes in the Application.properties file as per the changes and DB implementations .
 
 -------
 🏗️ Project Structure
@@ -73,5 +73,5 @@ Screenshots :-
 <img width="1900" height="920" alt="image" src="https://github.com/user-attachments/assets/b95581da-2730-46f5-adcb-99c4c20befc7" />
 
 
-Upcoming CHnages :- 
+Upcoming Chnages :- 
 Implementation of  AI Chatbot Support for Question Solving
